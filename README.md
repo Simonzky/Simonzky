@@ -5,8 +5,8 @@
 <p align="center> </p>
   <p align="right">
   <a href="https://rentry.co/stx">
-  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled957_20260817042359.png"width="90px" height="80px" /> </a>
+  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled957_20260817042359.png"width="20%" height="10%" /> </a>
 <a href="https://drstone.atabook.org">
-  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled957_20260817042425.png"width="90px" height="80px" /> </a>
+  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled957_20260817042425.png"width="20%" height="10%" /> </a>
 <a href="https://rentry.co/bureikou">
-  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled958.png"width="100px" height="80px" /> </a></p>
+  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled958.png"width="25%" height="10%" /> </a></p>
