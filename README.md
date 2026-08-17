@@ -5,5 +5,7 @@
 <p align="center> </p>
 <a href="https://rentry.co/stx">
   <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled957_20260817042359.png"width="90px" height="80px"</img></a> 
-  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled957_20260817042425.png"width="90px" height="80px"</img>
-  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled958.png"width="100px" height="80px"</img>
+<a href="https://rentry.co/stx">
+  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled957_20260817042425.png"width="90px" height="80px"</img> </a>
+<a href="https://rentry.co/stx">
+  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled958.png"width="100px" height="80px"</img> </a>
