@@ -1,4 +1,4 @@
-massive wip, still working on this lol
+massive wip, still working on this cuz the rentry link is not working lol
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Kyoyaootori&color=cd3827&label=✧")</p>
   
