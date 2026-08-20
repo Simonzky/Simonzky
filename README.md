@@ -6,8 +6,8 @@ massive wip, still working on this lol
 <p align="center"><img src="https://file.garden/ZuYpJg5I53r5G1cf/xenobaby.png"width="400" height="400"</img></p>
 <p align="center> </p>
   
-   <p align="center"><a href="https://rentry.co/xhw"> 
-  <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled960_20260817135921.png"width="20%" height="10%" /> </a>
+   <a href="https://rentry.co/xhw"> 
+  <p align="center"><img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled960_20260817135921.png"width="20%" height="10%" /> </a>
 <a href="https://drstone.atabook.org">
   <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled960_20260817135925.png"width="20%" height="10%" /> </a>
 <a href="https://rentry.co/bureikou">
