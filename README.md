@@ -8,7 +8,7 @@ massive wip, still working on this cuz the rentry link is not working lol
   
    <a href="https://rentry.co/xhw"> 
   <p align="center"><img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled960_20260817135921.png"width="20%" height="10%" /> </a>
-<a href="https://drstone.atabook.org">
+<a href="https://stanxeno.atabook.org">
   <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled960_20260817135925.png"width="20%" height="10%" /> </a>
 <a href="https://rentry.co/bureikou">
   <img src="https://file.garden/ZuYpJg5I53r5G1cf/Untitled960_20260817135929.png"width="20%" height="10%" /> </a> </p>
