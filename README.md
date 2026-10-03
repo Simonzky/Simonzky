@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Kyoyaootori&color=d363dc&label=✧&style=for-the-badge")</p>
-<p align="center"> $\textsf{\color{#d363dc}{Yo!}}$</p>
+<p align="center"> $\textsf{\color{#d363dc}{Yo}}$</p>
 <p align="center"> $\textsf{\color{#d363dc}{Simon‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  or‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Ryusui}}$</p>
 <p align="center"> $\textsf{\color{#d363dc}{Who ‎ ‎/ ‎ ‎Cares ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ 6teen}}$ </p>
 <p align="center"> $\textsf{\color{#d363dc}{I'm Mr. Talks A Lot, ask for my dc}}$</p>
